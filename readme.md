@@ -1,0 +1,3 @@
+Backbone.Abstract
+======================
+Backbone abstraction
